@@ -3,9 +3,11 @@
 
 A set of boards for the Philips ARM-Microcontrollers LPC2101 / LPC2103 and LPC2148.
 
-The controller boards plug into a motherboard containg connectors and additional hardware for sepcific purposes.
+The MCU boards plug into a motherboard containg connectors and additional hardware for sepcific purposes.
 
 Made with CadSoft Eagle.
+
+Both MCU boards have a JTAG connector, Reset switch, two power MAX8881 linear regulators for 1.8 and 3.3V as well as an optional step-up switching regulator for usage of external voltage below 3.3V
 
 ###MCUBOARD-1 "Shigeru" for LPC2103
 
