@@ -5,17 +5,22 @@ A set of boards for the Philips ARM-Microcontrollers LPC2101 / LPC2103 and LPC21
 
 The controller boards plug into a motherboard containg connectors and additional hardware for sepcific purposes.
 
+Made with CadSoft Eagle.
 
 ###MCUBOARD-1 "Shigeru" for LPC2103
 
 ![Eagle PCB](Images/MCUBOARD-1-V.1.0.brd.png)
+
 [Schematic](Images/MCUBOARD-1-V.1.0.sch.png)
 
 ###MCUBOARD-2 "Kenzaburo" for LPC2148
 
 ![Eagle PCB](Images/MCUBOARD-2-V.1.0.brd.png)
+
 [Schematic page 1](Images/MCUBOARD-2-V.1.0.sch.png)
+
 [Schematic page 2](Images/MCUBOARD-2-V.1.0.sch-2.png)
+
 [Schematic page 3](Images/MCUBOARD-2-V.1.0.sch-3.png)
 
 ###BASEBOARD-1 General purpose
@@ -23,7 +28,9 @@ The controller boards plug into a motherboard containg connectors and additional
 Contains a DS3231 High-Precision RTC, 2416 EEPROM, FT232 SERIAL USB
 
 ![Eagle PCB](Images/BASEBOARD-1-V.1.0.brd.png)
+
 [Schematic page 1](Images/BASEBOARD-1-V.1.0.sch.png)
+
 [Schematic page 2](Images/BASEBOARD-1-V.1.0.sch-2.png)
 
 ###BASEBOARD-2 Clock
@@ -32,9 +39,8 @@ Contains a DS3231 High-Precision RTC, 2416 EEPROM, two 74241 Bus Drivers,
 Additional connectors for I2C, time signal receiver and some buttons.
 
 ![Eagle PCB](Images/BASEBOARD-2-V.1.0.brd.png)
+
 [Schematic page 1](Images/BASEBOARD-2-V.1.0.sch.png)
-
-
 
 
 ###License
